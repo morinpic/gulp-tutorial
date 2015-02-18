@@ -1,5 +1,5 @@
 {
-  "name": "01_ejs",
+  "name": "001_ejs",
   "devDependencies": {
     "browser-sync": "^2.1.4",
     "gulp": "^3.8.11",
