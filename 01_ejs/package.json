@@ -1,0 +1,8 @@
+{
+  "name": "01_ejs",
+  "devDependencies": {
+    "browser-sync": "^2.1.4",
+    "gulp": "^3.8.11",
+    "gulp-ejs": "^1.0.0"
+  }
+}
