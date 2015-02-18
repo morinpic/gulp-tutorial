@@ -4,23 +4,24 @@
 
 クローン後、作業ディレクトリに移動
 ```
-git clone https://github.com/morinpic/gulp-tutorial.git
-cd gulp-tutorial/01_ejs
+$ git clone https://github.com/morinpic/gulp-tutorial.git
+$ cd gulp-tutorial/01_ejs
 ```
 
-gulpをグローバルへインストール
+Gulpのインストール  
+`-g`オプションを付けてグローバルインストール
 ```
-npm install -g gulp
+$ npm install -g gulp
 ```
 
-依存関係モジュールをインストール
+開発環境に必要なモジュールをインストール
 ```
-npm install
+$ npm install
 ```
 
 開発サーバ起動
 -------
 ```
-gulp server
+$ gulp server
 ```
 - ejsのコンパイル
