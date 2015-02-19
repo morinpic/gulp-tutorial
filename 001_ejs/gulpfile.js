@@ -5,11 +5,12 @@ var reload      = browserSync.reload;
 
 // ejs
 gulp.task('ejs', function() {
+  var json = require('./assets/data/test.json');
   return gulp.src([
       'assets/**/*.ejs',
       '!assets/**/_*.ejs'
     ])
-    .pipe(ejs())
+    .pipe(ejs(json))
     .pipe(gulp.dest('.tmp'))
     .pipe(reload({stream:true}));
 });
