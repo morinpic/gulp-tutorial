@@ -1,5 +1,8 @@
 001_ejs
 ========
+ejs公式サイト
+http://www.embeddedjs.com/
+
 ##Usage
 
 クローン後、作業ディレクトリに移動
