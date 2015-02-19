@@ -5,7 +5,7 @@
 クローン後、作業ディレクトリに移動
 ```
 $ git clone https://github.com/morinpic/gulp-tutorial.git
-$ cd gulp-tutorial/01_ejs
+$ cd gulp-tutorial/001_ejs
 ```
 
 Gulpのインストール  
