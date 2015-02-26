@@ -1,0 +1,9 @@
+{
+  "name": "003_ect",
+  "devDependencies": {
+    "browser-sync": "^2.1.4",
+    "gulp": "^3.8.11",
+    "gulp-ect": "^1.3.1",
+    "gulp-plumber": "^0.6.6"
+  }
+}
